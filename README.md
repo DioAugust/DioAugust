@@ -3,7 +3,7 @@
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="400" height="320" />
   <p>
-    Meu nome é Diogines Augusto. Sou desenvolvedor FullStack e estudante de Engenharia de software e Análise e Desenvolvimento de sistemas.
+    Meu nome é Diogines Augusto. Sou desenvolvedor FullStack.
   </p>
   <p>
     Sou um amante da tecnologia, acompanho diversas áreas e os avanços que trazem. Fui intercambista no ano de 2019 no Canadá, onde tive a oportunidade conhecer uma visão nova de mundo e ampliar meus horizontes!
