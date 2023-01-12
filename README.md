@@ -27,14 +27,13 @@
 </div>
   
 
-
 ## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" />
-<div >
+<div>
   <a href="https://github.com/DioAugust">
   <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
 </div>
   
  
