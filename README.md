@@ -36,10 +36,10 @@
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
 </div>
   
+<div>
+<!--START_SECTION:waka-->
  
-
-
-  ## Contato <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210112192-5b11196b-7842-44a4-b6c1-9715cbf7f229.png" />
+<!--END_SECTION:waka-->
 <div> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:doginisaugusto1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
