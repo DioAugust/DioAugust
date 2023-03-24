@@ -38,7 +38,25 @@
   
 <div>
 <!--START_SECTION:waka-->
- 
+
+```text
+From: 01 February 2023 - To: 24 March 2023
+
+Total Time: 32 hrs 50 mins
+
+JavaScript       17 hrs 58 mins  >>>>>>>>>>>>>>-----------   54.70 %
+Java             14 hrs 31 mins  >>>>>>>>>>>--------------   44.21 %
+Markdown         10 mins         -------------------------   00.53 %
+JSON             3 mins          -------------------------   00.18 %
+HTML             2 mins          -------------------------   00.15 %
+Git Config       2 mins          -------------------------   00.12 %
+CLASS            1 min           -------------------------   00.07 %
+XML              0 secs          -------------------------   00.01 %
+CSS              0 secs          -------------------------   00.01 %
+prototext        0 secs          -------------------------   00.01 %
+Other            0 secs          -------------------------   00.01 %
+```
+
 <!--END_SECTION:waka-->
 <div> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
