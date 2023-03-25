@@ -2,7 +2,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height="22em" src="https://wakatime.com/badge/user/dd0960ca-a819-4407-a960-c470e301a6f1.svg" alt="Total time coded since Feb 1 2023" /></a>   
-    <img height="25em" src="https://komarev.com/ghpvc/?username=your-github-DioAugust&style=flat-square&label=Contador+De+Visitas"/>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;"> 
@@ -52,8 +51,11 @@
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DioAugust&theme=merko&hide_border=true" /></a>
 </div>
 
+</br>
+
+### Contador de visitas
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img height="40" width="400" src="https://profile-counter.glitch.me/DioAugust/count.svg" />
+  <img src="https://profile-counter.glitch.me/DioAugust/count.svg" />
 </div>
 
 </br>
