@@ -1,4 +1,4 @@
-## Hello, there! <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210106555-50247041-e5d7-4dc3-950a-460d0ef2c1ed.png" />
+## Hello, there! <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210106555-50247041-e5d7-4dc3-950a-460d0ef2c1ed.png"  /> <a href="https://wakatime.com/@dd0960ca-a819-4407-a960-c470e301a6f1"><img src="https://wakatime.com/badge/user/dd0960ca-a819-4407-a960-c470e301a6f1.svg" alt="Total time coded since Feb 1 2023" /></a>
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="400" height="320" />
@@ -36,23 +36,12 @@
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
 </div>
   
+  <div>
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko"/>
+  </div>
 <div>
-<!--START_SECTION:waka-->
-
-```text
-From: 01 February 2023 - To: 24 March 2023
-
-Total Time: 32 hrs 50 mins
-
-JavaScript       17 hrs 58 mins  >>>>>>>>>>>>>>-----------   54.70 %
-Java             14 hrs 31 mins  >>>>>>>>>>>--------------   44.21 %
-Markdown         10 mins         -------------------------   00.53 %
-JSON             3 mins          -------------------------   00.18 %
-HTML             2 mins          -------------------------   00.15 %
-Git Config       2 mins          -------------------------   00.12 %
-```
-
-<!--END_SECTION:waka-->
+  
 <div> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:doginisaugusto1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
