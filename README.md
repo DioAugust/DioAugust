@@ -42,17 +42,19 @@
   <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
   <div>
     <img height="180em" 
-      src="https://raw.githubusercontent.com/DioAugust/github-stats-transparent/output/generated/overview.svg"/>
-    <img height="180em" 
       src="https://github-readme-stats.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko"/>
   </div>
   
 
 
 </br>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DioAugust&theme=merko&hide_border=true" /></a>
 <div>
-### Visitor count
-<img src="https://profile-counter.glitch.me/DioAugust/count.svg" />
-   
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DioAugust&theme=merko&hide_border=true" /></a>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img height="40" width="400" src="https://profile-counter.glitch.me/DioAugust/count.svg" />
+</div>
+
+</br>
 <img style="display: none;" src="https://hit.yhype.me/github/profile?user_id=40190879"/>
