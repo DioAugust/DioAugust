@@ -23,7 +23,7 @@
   </p>
  </div>
  
- ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
+ ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="35" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
 <div style="display: inline_block">
   <img align="center" alt="DioAugust" height="40" width="440" src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,py,java,mysql,git,figma">
   <img  align="center" alt="DioAugust" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
