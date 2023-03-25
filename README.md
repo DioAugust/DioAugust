@@ -1,4 +1,5 @@
-## Hello, there! <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210106555-50247041-e5d7-4dc3-950a-460d0ef2c1ed.png"  /> <a href="https://wakatime.com/@dd0960ca-a819-4407-a960-c470e301a6f1"><img src="https://wakatime.com/badge/user/dd0960ca-a819-4407-a960-c470e301a6f1.svg" alt="Total time coded since Feb 1 2023" /></a>
+## Hello, there! <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210106555-50247041-e5d7-4dc3-950a-460d0ef2c1ed.png"  /> <a href="https://wakatime.com/@dd0960ca-a819-4407-a960-c470e301a6f1"><img height="22em" src="https://wakatime.com/badge/user/dd0960ca-a819-4407-a960-c470e301a6f1.svg" alt="Total time coded since Feb 1 2023" /></a>  <img height="25em" src="https://komarev.com/ghpvc/?username=your-github-DioAugust&style=flat-square&label=Contador+De+Visitas"/>
+  
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="400" height="320" />
@@ -27,7 +28,7 @@
 </div>
   
 
-## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" />
+## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" /> 
 <div>
   <a href="https://github.com/DioAugust">
   <img height="180em" 
@@ -42,9 +43,11 @@
   </div>
 <div>
   
+  ## Contato
 <div> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:doginisaugusto1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogines-augusto-1539ab19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+<img style="display: none;" src="https://hit.yhype.me/github/profile?user_id=40190879"/>
