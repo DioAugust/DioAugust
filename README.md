@@ -1,5 +1,5 @@
 ## Hello, there! <img  align="center" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210106555-50247041-e5d7-4dc3-950a-460d0ef2c1ed.png"  /> <a href="https://wakatime.com/@dd0960ca-a819-4407-a960-c470e301a6f1"><img height="22em" src="https://wakatime.com/badge/user/dd0960ca-a819-4407-a960-c470e301a6f1.svg" alt="Total time coded since Feb 1 2023" /></a>  <img height="25em" src="https://komarev.com/ghpvc/?username=your-github-DioAugust&style=flat-square&label=Contador+De+Visitas"/>
-  
+
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="400" height="320" />
@@ -41,6 +41,9 @@
   <img height="180em" 
     src="https://github-readme-stats.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko"/>
   </div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DioAugust&theme=merko&hide_border=true" /></a>
+
 <div>
 
 <!--START_SECTION:waka-->
