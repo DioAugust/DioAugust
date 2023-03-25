@@ -42,12 +42,15 @@
     src="https://github-readme-stats.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko"/>
   </div>
 <div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   ## Contato
 <div> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:doginisaugusto1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogines-augusto-1539ab19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+
 <img style="display: none;" src="https://hit.yhype.me/github/profile?user_id=40190879"/>
