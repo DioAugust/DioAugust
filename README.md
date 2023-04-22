@@ -15,7 +15,7 @@
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="350" height="300" />
   <p>
-    Meu nome é Diogines Augusto, sou desenvolvedor FullStack e estudante de Engenharia de Software na Jala University dos EUA e Análise e desenvolvimento de sistemas no IFPE.
+    Meu nome é Diogines Augusto, sou desenvolvedor FullStack e estudante de Engenharia de Software na Jala University dos EUA.
   </p>
   <p>
     Faço projetos web e Mobile com react e react native, estou aberto a novos négocios.
