@@ -18,7 +18,7 @@
     Meu nome é Diogines Augusto, sou desenvolvedor FullStack e estudante de Engenharia de Software na Jala University dos EUA.
   </p>
   <p>
-    Faço projetos web e Mobile com react e react native, estou aberto a novos négocios.
+    Faço projetos Web e Mobile com react e react native, estou aberto a novos négocios.
   </p>
  </div>
  
