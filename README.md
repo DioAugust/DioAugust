@@ -26,7 +26,6 @@
 <div style="display: inline_block">
   <img align="center" alt="DioAugust" height="40" width="440" src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,py,java,mysql,git,figma">
   <img  align="center" alt="DioAugust" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
 </div>
 
 ## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" /> 
