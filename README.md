@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center;"> 
  <a href="https://discordapp.com/users/Kyojin#9792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:doginisaugusto1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogines-augusto-1539ab19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diogines-augusto-1539ab19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </br>
 
@@ -23,8 +23,8 @@
  
  ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="35" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
 <div style="display: inline_block">
-  <img align="center" alt="DioAugust" height="40" width="440" src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,py,java,mysql,git,figma">
-  <img  align="center" alt="DioAugust" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="DioAugust" height="40" width="440" src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,py,java,mysql,git,figma,laravel,linux">
+  
 </div>
 
 ## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" /> 
