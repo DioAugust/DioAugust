@@ -31,9 +31,9 @@
 <div>
   <a href="https://github.com/DioAugust">
   <img height="180em" 
-    src="https://github-readme-stats-two-beta-66.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" 
-    src="https://github-readme-stats-two-beta-66.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
+    src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
 </div>
 </br>
   <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
