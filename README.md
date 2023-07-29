@@ -39,14 +39,14 @@
   <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
   <div>
     <img height="180em" 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
+      src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
   </div>
   
 
 
 </br>
 <div>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" /></a>
 </div>
 
 </br>
