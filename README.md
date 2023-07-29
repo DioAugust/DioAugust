@@ -31,15 +31,15 @@
 <div>
   <a href="https://github.com/DioAugust">
   <img height="180em" 
-    src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats-git-master-dioaugust.vercel.app/api?username=DioAugust&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" 
-    src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
+    src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/top-langs/?username=DioAugust&show_icons=true&layout=compact&langs_count=8&theme=merko&cache_seconds=7200"/>
 </div>
 </br>
   <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
   <div>
     <img height="180em" 
-      src="https://github-readme-stats-drilpikns-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
+      src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
   </div>
   
 
@@ -55,6 +55,3 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://profile-counter.glitch.me/DioAugust/count.svg" />
 </div>
-
-</br>
-<img style="display: none;" src="https://hit.yhype.me/github/profile?user_id=40190879"/>
