@@ -46,7 +46,7 @@
 
 </br>
 <div>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph-fzhqarzwi-dioaugust.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph-red.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" /></a>
 </div>
 
 </br>
