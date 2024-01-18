@@ -40,7 +40,7 @@
   <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
   <div>
     <img height="180em" 
-      src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
+      src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time&hide=markdown"/>
   </div>
   
 
