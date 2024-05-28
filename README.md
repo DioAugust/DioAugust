@@ -23,11 +23,11 @@
   </p>
  </div>
  
-<!-- ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="35" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
+ ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="35" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
 <div style="display: inline_block">
-  <img align="center" alt="DioAugust" height="70" width="460" src="https://skills.thijs.gg/icons?i=js,ts,bootstrap,tailwind,react,nodejs,py,java,mysql,git,figma,laravel,linux,aws,bash,firebase,docker,">
+  <img align="center" alt="DioAugust" height="70" width="460" src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nodejs,py,java,mysql,git,figma,laravel,linux,aws,bash,firebase,docker,">
 </div>
--->
+
 ## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" /> 
 <div>
   <a href="https://github.com/DioAugust">
