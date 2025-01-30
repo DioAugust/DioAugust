@@ -16,16 +16,21 @@
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/40190879/210110304-c9cdda8a-21fe-4c1e-a4d1-26cdb1b13c3b.png" width="350" height="300" />
   <p>
-    Meu nome é Diogines Augusto, sou desenvolvedor FullStack e estudante de Engenharia de Software na Jala University dos EUA.
+     Meu nome é <strong>Diogines Augusto</strong>, sou <strong>CTO da WeeFindPro</strong> e estudante de <strong>Engenharia de Software na Jala University</strong> nos EUA. Tenho paixão por desenvolver soluções que impulsionam negócios e melhoram a experiência dos usuários.
   </p>
-  <p>
-    Atuo com projetos Web e Mobile com react e react native, estou aberto a novos négocios. 
-  </p>
+    <h2>📋 Serviços</h2>
+ <ul>
+  <li><strong>Desenvolvimento de Software Comercial</strong>: Criação de aplicações robustas e escaláveis.</li>
+  <li><strong>Migração e Otimização de Ambientes AWS</strong>: Garantindo eficiência e custo-benefício.</li>
+  <li><strong>Configuração de Ambientes AWS</strong>: Configuração segura e otimizada para suas necessidades.</li>
+  <li><strong>Suporte a CRMs</strong>: Especialização em plataformas como <strong>Pipedrive</strong>.</li>
+  <li><strong>Aplicações Omnichannel</strong>: Integração com <strong>Zendesk</strong> e <strong>Zenvia</strong> para uma comunicação unificada.</li>
+</ul>
  </div>
  
  ## Tecnologias que uso no meu dia a dia <img  align="center" height="35" width="35" src="https://user-images.githubusercontent.com/40190879/210109134-8860b18c-3e9a-4db5-ba25-f833e191577b.png" />
 <div style="display: inline_block">
-  <img align="center" alt="DioAugust" height="70" width="460" src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nodejs,py,java,mysql,git,figma,githubactions,laravel,linux,aws,bash,firebase,docker,">
+  <img align="center" alt="DioAugust" height="70" width="460" src="https://skillicons.dev/icons?i=js,ts,java,py,react,nextjs,angular,bootstrap,tailwind,laravel,nest,spring,jest,mysql,postgres,mongo,firebase,git,githubactions,figma,linux,aws,bash,docker,wordpress,obsidian,postman,">
 </div>
 
 ## Estatísticas GitHub <img  align="center" alt="Rafa-Linux" height="35" width="40" src="https://user-images.githubusercontent.com/40190879/210110839-e4d7670e-6add-48ab-a625-0197778411e2.png" /> 
