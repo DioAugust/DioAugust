@@ -54,7 +54,4 @@
 </div>
 
 
-### Visitor Count  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DioAugust/count.svg" alt="Visitor Count"/>
-</div>
+
