@@ -5,10 +5,7 @@
 </div>
 
 <div align="start">
-  <a href="https://discordapp.com/users/_kyojin" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:dioginesaugustoprofi@gmail.com">
+  <a href="mailto:contato.dioaugustodev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/diogines-augusto/" target="_blank">
